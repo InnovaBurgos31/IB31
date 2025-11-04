@@ -21,11 +21,11 @@
 </div>
 
 <nav>
-<ul class="nav-list"> flex
-<li><a href= "C1">QUIÉNES SOMOS</li>
-<li><a href= "C2">PROYECTOS</li>
-<li><a href= "C3">CONTACTO</li>
-<li><a href= "C4">ÚNETE</li>
+<ul class="nav-list"> 
+<li><a href= "C1">QUIÉNES SOMOS</a></li>
+<li><a href= "C2">PROYECTOS</a></li>
+<li><a href= "C3">CONTACTO</a></li>
+<li><a href= "C4">ÚNETE</a></li>
 </ul>
 </nav>
 </header>
@@ -36,47 +36,47 @@
 <br>
 
 <p>
-"Desde la asociación INNOVA-BURGOS31 ponemos en marcha este proyecto educativo de formación y fomento del talento joven burgalés."
+Desde la asociación INNOVA-BURGOS31 ponemos en marcha este proyecto educativo de formación y fomento del talento joven burgalés.
 </p>
 <h2 id="C1">Quiénes somos</h2>
 <p>
-"Somos una nueva asociación de jóvenes burgaleses (INNOVA_BURGOS31) que habiendo participado en la creación y desarrollo del programa de la Universidad UBUPROYECTA. Sentimos la necesidad de fomentar el talento desde la juventud y para la juventud burgalesa desde la sociedad civil. Haber estado en la creación de UBUPROYECTA nos permite valorar la importancia que tiene para los jóvenes y para Burgos este tipo de programas educativos de fomento y retención del talento."
+Somos una nueva asociación de jóvenes burgaleses (INNOVA_BURGOS31) que habiendo participado en la creación y desarrollo del programa de la Universidad UBUPROYECTA. Sentimos la necesidad de fomentar el talento desde la juventud y para la juventud burgalesa desde la sociedad civil. Haber estado en la creación de UBUPROYECTA nos permite valorar la importancia que tiene para los jóvenes y para Burgos este tipo de programas educativos de fomento y retención del talento.
 </p>
 
 <h3>A quién dirigimos nuestro proyecto</h3>
 <p>
-"Nuestro primer proyecto va dirigido a chicos y chicas de entre 12 y 15 años que residan en la ciudad de Burgos y que muestren interés por la ciencia y la tecnología aplicada a soluciones sobre el terreno. Además de un marcado carácter técnico científico el programa incidirá en la importancia de desarrollar las habilidades personales necesarias para el trabajo en equipo destinado a objetivos reales. Para hacer posible este primer programa esperamos contar con un mínimo de tres componentes y nunca más de ocho miembros en el programa.
+Nuestro primer proyecto va dirigido a chicos y chicas de entre 12 y 15 años que residan en la ciudad de Burgos y que muestren interés por la ciencia y la tecnología aplicada a soluciones sobre el terreno. Además de un marcado carácter técnico científico el programa incidirá en la importancia de desarrollar las habilidades personales necesarias para el trabajo en equipo destinado a objetivos reales. Para hacer posible este primer programa esperamos contar con un mínimo de tres componentes y nunca más de ocho miembros en el programa.
 </p>
 
 <h3>Con quién trabajamos</h3>
 <ul>
-<li>"Equipo de Investigación de Prado Vargas"</li>
-<li>"Museo de la Evolución Humana"</li>
-<li>"CENIEH"</li>
-<li>"Universidad de Burgos</li>
-<li>"Escuela de Ingenieros de la Universidad de Burgos"</li>
-<li>"Área de Juventud del Ayuntamiento de Burgos</li>
-<li>"Empresas concretas de Burgos"</li>
+<li>Equipo de Investigación de Prado Vargas</li>
+<li>Museo de la Evolución Humana</li>
+<li>CENIEH</li>
+<li>Universidad de Burgos</li>
+<li>Escuela de Ingenieros de la Universidad de Burgos</li>
+<li>Área de Juventud del Ayuntamiento de Burgos</li>
+<li>Empresas concretas de Burgos</li>
 </ul>
 
 
 <h3>Dónde, cuándo y cómo</h3>
 <p>
-"proyecto educativo se desarrollará todos los viernes (excepto los que se consideren festivos y vísperas de festivos a tenor del calendario escolar) de 17:00 a 18:30 en las aulas de La Facultad de la Escuela de Ingenieros situada en el Campus de Rio Vena.
+Este proyecto educativo se desarrollará todos los viernes (excepto los que se consideren festivos y vísperas de festivos a tenor del calendario escolar) de 17:00 a 18:30 en las aulas de La Facultad de la Escuela de Ingenieros situada en el Campus de Rio Vena.
 </p>
 <p>
-"En este proyecto educativo acercaremos a este grupo de jóvenes a las herramientas necesarias para la creación de un proyecto tecnológico-científico con un marcado carácter profesional: "
+En este proyecto educativo acercaremos a este grupo de jóvenes a las herramientas necesarias para la creación de un proyecto tecnológico-científico con un marcado carácter profesional: 
 </p>
 <ul>
-<li>"Identificación de oportunidades de mejora en procesos existentes."</li>
-<li>"Creación de un proyecto"</li>
-<li>"Comunicación del proyecto"</li>
-<li>"Financiación de proyectos"</li>
-<li>"Herramientas necesarias para desarrollar el proyecto (diseño industrial, electricidad, consumo de agua y energía responsable y respetuosa con el medio ambiente)"</li>
+<li>Identificación de oportunidades de mejora en procesos existentes.</li>
+<li>Creación de un proyecto</li>
+<li>Comunicación del proyecto</li>
+<li>Financiación de proyectos</li>
+<li>Herramientas necesarias para desarrollar el proyecto (diseño industrial, electricidad, consumo de agua y energía responsable y respetuosa con el medio ambiente)</li>
 </ul>
 
 <p>
-"De forma extraordinaria y a tenor de actividades concretas se organizaran actividades con el fin de facilitar y centrar los objetivos del programa (visitas guiadas al Museo de la Evolución, al CENIEH, etc). Así como sesiones con especialistas en diferentes ámbitos de la investigación, la tecnología y la organización de proyectos. Fechas y ponentes a determinar. Una vez terminado el curso y con el prototipo operativo coordinaremos con los responsables del Yacimiento y en comunicación con las alcaldías responsables de la zona uno o dos días dónde probar el prototipo y formar a los investigadores sobre su uso e implantar un cuaderno de campo con el objetivo de enseñar a los voluntarios que vayan a pasar por los propios yacimientos. En estas jornadas se explicará a los niñ@s y jóvenes de la zona el proyecto llevado y la importancia del conocimiento y colaboración para la sociedad civil en cualquier tipo de proyecto científico.
+De forma extraordinaria y a tenor de actividades concretas se organizaran actividades con el fin de facilitar y centrar los objetivos del programa (visitas guiadas al Museo de la Evolución, al CENIEH, etc). Así como sesiones con especialistas en diferentes ámbitos de la investigación, la tecnología y la organización de proyectos. Fechas y ponentes a determinar. Una vez terminado el curso y con el prototipo operativo coordinaremos con los responsables del Yacimiento y en comunicación con las alcaldías responsables de la zona uno o dos días dónde probar el prototipo y formar a los investigadores sobre su uso e implantar un cuaderno de campo con el objetivo de enseñar a los voluntarios que vayan a pasar por los propios yacimientos. En estas jornadas se explicará a los niñ@s y jóvenes de la zona el proyecto llevado y la importancia del conocimiento y colaboración para la sociedad civil en cualquier tipo de proyecto científico.
 </p>
 <h2 id="C2"> Proyectos </h2>
 <h3> Proyecto educativo de automatización de cribado en Prado Vargas</h3>
