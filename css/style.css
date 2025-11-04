@@ -1,0 +1,106 @@
+h1 {color: rgb(5, 62, 77);
+font-size: 80px;}
+
+
+.contenido {
+  margin-top: 30px;
+  margin-bottom: 100px;
+  margin-right: 190px;
+  margin-left: 130px;
+font-family: candara;
+}
+
+body {
+margin: 0px;
+}
+
+.fondo {
+background-image: url("../img/fondo5.PNG");
+  background-size: cover;        
+  background-repeat: no-repeat;  
+  background-position: center;   
+  background-attachment: fixed; 
+height: 100vh; /* ocupa toda la altura de la pantalla */
+  position: relative;
+}
+
+
+.impacto {
+font-size: 150px;
+color: rgb(242, 249, 252);
+font-family: Impact;
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+ text-align: center;}
+
+.logo {
+ height: 60px;       /* ajusta el tamaño si quieres */
+  width: auto;        /* mantiene la proporción */
+  display: block;
+}
+
+
+
+.navbar {
+  position: fixed;     
+  top: 0;
+  left: 0;
+  width: 100%;         
+  background: rgba(255, 255, 255, 0.25); 
+backdrop-filter: blur(10px);
+-webkit-backdrop-filter: blur(10px);
+  z-index: 1000; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+z-index: 1000;
+display: flex;              
+  align-items: center;        
+  justify-content: space-between; 
+  padding: 0 40px;            
+  height: 80px;   
+}
+
+.nav-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;       
+  justify-content: right; 
+  align-items: center;
+  height: 80px; 
+margin-right: 60px
+}
+
+.nav-list li {
+  margin: 0 20px;       /* espacio entre los botones */
+}
+
+.nav-list li a {
+  text-decoration: none;
+  color: rgb(198, 185, 205);
+  font-size: 20px;
+  padding: 20px;
+  transition: background-color 0.3s ease;
+font-family: Impact;
+
+}
+
+.nav-list li a:hover {
+  background-color: #f3c3a4;
+  color: black;
+ border-radius: 30px
+}
+
+
+
+p {font-size: 40 px;
+font-family: candara,tahoma, verdana}
+
+h2 {text-align: left;
+color: rgb(16, 79, 87);
+font-family: candara;
+font-size:35px;}
+
+h3{color: rgb(10, 88, 95);
+}
