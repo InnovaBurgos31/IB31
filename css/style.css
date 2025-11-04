@@ -15,7 +15,7 @@ margin: 0px;
 }
 
 .fondo {
-background-image: url("../img/fondo5.png");
+background-image: url("/../img/fondo5.png");
   background-size: cover;        
   background-repeat: no-repeat;  
   background-position: center;   
@@ -105,3 +105,4 @@ font-size:35px;}
 h3{color: rgb(10, 88, 95);
 
 }
+
